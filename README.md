@@ -10,14 +10,8 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 This is my edit :) 
 
-    /\___/\
-   /       \
-  l  u   u  l
---l----*----l--
-   \   w   /     - Meow!
-     ======
-   /       \ __
-   l        l\ \
-   l        l/ /  
-   l  l l   l /
-   \ ml lm /_/
+        ,-""""""-.
+     /\j__/\  (  \`--.
+hjw  \`@_@'/  _)  >--.`.
+    _{.:Y:_}_{{_,'    ) )
+   {_}`-^{_} ```     (_/
